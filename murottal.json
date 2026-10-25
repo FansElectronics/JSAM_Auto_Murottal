@@ -1,0 +1,1142 @@
+{
+    "version": "1.0",
+    "updated_at": "2026-10-26",
+    "adzan": {
+        "reguler": {
+            "folder": 1,
+            "daftar": [
+                {
+                    "nomor": 1,
+                    "name": "Adzan Reguler Indonesia #1",
+                    "durasi": 158,
+                    "url": "https://islamdownload.net/125468-mp3-adzan-waktu-sholat.html"
+                },
+                {
+                    "nomor": 2,
+                    "name": "Adzan Reguler TransTV 2025",
+                    "durasi": 149,
+                    "url": "https://www.youtube.com/watch?v=fwUVi0AMfSs"
+                },
+                {
+                    "nomor": 3,
+                    "name": "Adzan Reguler Ghofar Zaen",
+                    "durasi": 303,
+                    "url": "https://www.youtube.com/watch?v=qhp3gy2rDUU"
+                }
+            ]
+        },
+        "subuh": {
+            "folder": 2,
+            "daftar": [
+                {
+                    "nomor": 1,
+                    "name": "Adzan Subuh Indonesia #1",
+                    "durasi": 187,
+                    "url": "https://islamdownload.net/125468-mp3-adzan-waktu-sholat.html"
+                },
+                {
+                    "nomor": 2,
+                    "name": "Adzan Subuh TransTV 2025",
+                    "durasi": 177,
+                    "url": "https://www.youtube.com/watch?v=fwUVi0AMfSs"
+                },
+                {
+                    "nomor": 3,
+                    "name": "Adzan Subuh Ghofar Zaen",
+                    "durasi": 348,
+                    "url": "https://www.youtube.com/watch?v=qhp3gy2rDUU"
+                }
+            ]
+        }
+    },
+    "khusus": [
+        {
+            "folder": 3,
+            "nama": "Sholawat Tarhim",
+            "daftar": [
+                {
+                    "nomor": 1,
+                    "nama": "Syekh Mahmud Al-Hussary",
+                    "durasi": 315,
+                    "url": "https://id.wikipedia.org/wiki/Mahmud_Khalil_Al-Hussary"
+                },
+                {
+                    "nomor": 2,
+                    "nama": "Ust. Hendra (Mufid Media)",
+                    "durasi": 359,
+                    "url": "https://www.youtube.com/watch?v=ij5VkAUJUcc"
+                },
+                {
+                    "nomor": 3,
+                    "nama": "Mas Kafa Channel",
+                    "durasi": 374,
+                    "url": "https://www.youtube.com/watch?v=7v6dVmNtFgA"
+                },
+                {
+                    "nomor": 4,
+                    "nama": "Ghofar Zaen",
+                    "durasi": 382,
+                    "url": "https://www.youtube.com/watch?v=dAXI1htxUik"
+                }
+            ]
+        }
+    ],
+    "qori": [
+        {
+            "folder": 11,
+            "nama": "Syaikh Mahmud Khalil Al Hussary",
+            "url": "https://islamdownload.net/125146-download-murottal-quran-30-juz-mp3.html",
+            "durasi": [
+                50,
+                10847,
+                6245,
+                6174,
+                3527,
+                4797,
+                5100,
+                1992,
+                2887,
+                2421,
+                2242,
+                2717,
+                1289,
+                1308,
+                785,
+                2082,
+                2042,
+                2243,
+                1553,
+                1915,
+                1950,
+                2132,
+                1665,
+                2475,
+                1292,
+                1672,
+                1455,
+                1870,
+                1219,
+                1061,
+                558,
+                409,
+                1745,
+                1323,
+                1101,
+                1131,
+                1367,
+                1131,
+                1589,
+                1623,
+                944,
+                1107,
+                1278,
+                610,
+                708,
+                818,
+                787,
+                863,
+                469,
+                599,
+                634,
+                570,
+                597,
+                651,
+                831,
+                843,
+                933,
+                800,
+                741,
+                522,
+                352,
+                282,
+                303,
+                410,
+                506,
+                484,
+                366,
+                423,
+                419,
+                381,
+                380,
+                438,
+                272,
+                394,
+                257,
+                413,
+                321,
+                319,
+                309,
+                283,
+                173,
+                130,
+                180,
+                121,
+                132,
+                89,
+                108,
+                144,
+                207,
+                122,
+                95,
+                115,
+                68,
+                42,
+                56,
+                113,
+                47,
+                141,
+                62,
+                66,
+                65,
+                55,
+                27,
+                56,
+                40,
+                34,
+                47,
+                20,
+                37,
+                34,
+                35,
+                23,
+                33,
+                40
+            ]
+        },
+        {
+            "folder": 12,
+            "nama": "Syekh Misyari bin Rasyid",
+            "url": "https://islamdownload.net/125146-download-murottal-quran-30-juz-mp3.html",
+            "durasi": [
+                53,
+                7075,
+                5431,
+                5054,
+                3865,
+                4424,
+                5055,
+                1849,
+                3717,
+                2732,
+                2805,
+                2548,
+                1231,
+                1235,
+                966,
+                2560,
+                2013,
+                2023,
+                1285,
+                1643,
+                1586,
+                1784,
+                1500,
+                1981,
+                1191,
+                1985,
+                1694,
+                2067,
+                1378,
+                1181,
+                722,
+                529,
+                1763,
+                1143,
+                1067,
+                1070,
+                1468,
+                1072,
+                1648,
+                1585,
+                1165,
+                1182,
+                1243,
+                587,
+                649,
+                966,
+                743,
+                728,
+                507,
+                574,
+                562,
+                500,
+                476,
+                496,
+                694,
+                739,
+                835,
+                594,
+                615,
+                443,
+                287,
+                210,
+                253,
+                320,
+                355,
+                353,
+                443,
+                452,
+                402,
+                316,
+                278,
+                332,
+                242,
+                323,
+                210,
+                313,
+                284,
+                294,
+                265,
+                226,
+                164,
+                142,
+                321,
+                166,
+                204,
+                104,
+                111,
+                139,
+                221,
+                125,
+                87,
+                112,
+                67,
+                44,
+                67,
+                99,
+                46,
+                131,
+                61,
+                73,
+                65,
+                65,
+                28,
+                60,
+                51,
+                44,
+                60,
+                25,
+                57,
+                36,
+                43,
+                22,
+                35,
+                53
+            ]
+        },
+        {
+            "folder": 13,
+            "nama": "Syaikh Ali Jaber",
+            "url": "https://islamdownload.net/125146-download-murottal-quran-30-juz-mp3.html",
+            "durasi": [
+                63,
+                7838,
+                4468,
+                4690,
+                3306,
+                3576,
+                3912,
+                1515,
+                3047,
+                2257,
+                2231,
+                2109,
+                1026,
+                1000,
+                864,
+                2186,
+                1763,
+                1745,
+                1100,
+                1433,
+                1401,
+                1450,
+                1374,
+                494,
+                1045,
+                1550,
+                1398,
+                1626,
+                1100,
+                926,
+                599,
+                389,
+                1440,
+                913,
+                872,
+                774,
+                1011,
+                767,
+                1259,
+                1296,
+                877,
+                923,
+                977,
+                398,
+                495,
+                654,
+                593,
+                618,
+                410,
+                390,
+                433,
+                378,
+                408,
+                423,
+                545,
+                528,
+                680,
+                525,
+                497,
+                408,
+                264,
+                229,
+                237,
+                278,
+                340,
+                295,
+                370,
+                342,
+                323,
+                261,
+                243,
+                283,
+                214,
+                268,
+                190,
+                295,
+                235,
+                261,
+                243,
+                189,
+                127,
+                96,
+                213,
+                128,
+                126,
+                73,
+                82,
+                118,
+                167,
+                97,
+                77,
+                89,
+                53,
+                32,
+                42,
+                79,
+                35,
+                99,
+                44,
+                48,
+                47,
+                37,
+                23,
+                40,
+                32,
+                28,
+                36,
+                18,
+                38,
+                28,
+                30,
+                19,
+                29,
+                40
+            ]
+        },
+        {
+            "folder": 14,
+            "nama": "Syaikh Yasser al-Dosari",
+            "url": "https://islamdownload.net/125146-download-murottal-quran-30-juz-mp3.html",
+            "durasi": [
+                50,
+                7828,
+                4278,
+                3868,
+                3178,
+                3640,
+                3896,
+                1360,
+                2555,
+                1928,
+                2176,
+                1881,
+                847,
+                912,
+                691,
+                1928,
+                1466,
+                1389,
+                1149,
+                1112,
+                1135,
+                1119,
+                977,
+                1393,
+                866,
+                1198,
+                1178,
+                1667,
+                1054,
+                879,
+                553,
+                404,
+                1301,
+                809,
+                745,
+                684,
+                1111,
+                648,
+                1392,
+                1430,
+                758,
+                788,
+                818,
+                338,
+                458,
+                604,
+                539,
+                547,
+                357,
+                403,
+                350,
+                292,
+                309,
+                327,
+                453,
+                415,
+                548,
+                429,
+                399,
+                340,
+                198,
+                160,
+                171,
+                202,
+                259,
+                261,
+                305,
+                283,
+                244,
+                209,
+                211,
+                250,
+                181,
+                227,
+                143,
+                52,
+                190,
+                179,
+                164,
+                137,
+                95,
+                72,
+                167,
+                96,
+                104,
+                58,
+                65,
+                86,
+                130,
+                71,
+                59,
+                71,
+                41,
+                29,
+                39,
+                69,
+                31,
+                86,
+                40,
+                44,
+                39,
+                32,
+                20,
+                36,
+                28,
+                25,
+                30,
+                17,
+                32,
+                22,
+                26,
+                15,
+                23,
+                31
+            ]
+        }
+    ],
+    "surat": [
+        {
+            "nomor": 1,
+            "nama": "Al-Fatihah",
+            "ayat": 7
+        },
+        {
+            "nomor": 2,
+            "nama": "Al-Baqarah",
+            "ayat": 286
+        },
+        {
+            "nomor": 3,
+            "nama": "Ali 'Imran",
+            "ayat": 200
+        },
+        {
+            "nomor": 4,
+            "nama": "An-Nisa'",
+            "ayat": 176
+        },
+        {
+            "nomor": 5,
+            "nama": "Al-Ma'idah",
+            "ayat": 120
+        },
+        {
+            "nomor": 6,
+            "nama": "Al-An'am",
+            "ayat": 165
+        },
+        {
+            "nomor": 7,
+            "nama": "Al-A'raf",
+            "ayat": 206
+        },
+        {
+            "nomor": 8,
+            "nama": "Al-Anfal",
+            "ayat": 75
+        },
+        {
+            "nomor": 9,
+            "nama": "At-Taubah",
+            "ayat": 129
+        },
+        {
+            "nomor": 10,
+            "nama": "Yunus",
+            "ayat": 109
+        },
+        {
+            "nomor": 11,
+            "nama": "Hud",
+            "ayat": 123
+        },
+        {
+            "nomor": 12,
+            "nama": "Yusuf",
+            "ayat": 111
+        },
+        {
+            "nomor": 13,
+            "nama": "Ar-Ra'd",
+            "ayat": 43
+        },
+        {
+            "nomor": 14,
+            "nama": "Ibrahim",
+            "ayat": 52
+        },
+        {
+            "nomor": 15,
+            "nama": "Al-Hijr",
+            "ayat": 99
+        },
+        {
+            "nomor": 16,
+            "nama": "An-Nahl",
+            "ayat": 128
+        },
+        {
+            "nomor": 17,
+            "nama": "Al-Isra'",
+            "ayat": 111
+        },
+        {
+            "nomor": 18,
+            "nama": "Al-Kahf",
+            "ayat": 110
+        },
+        {
+            "nomor": 19,
+            "nama": "Maryam",
+            "ayat": 98
+        },
+        {
+            "nomor": 20,
+            "nama": "Ta-Ha",
+            "ayat": 135
+        },
+        {
+            "nomor": 21,
+            "nama": "Al-Anbiya'",
+            "ayat": 112
+        },
+        {
+            "nomor": 22,
+            "nama": "Al-Hajj",
+            "ayat": 78
+        },
+        {
+            "nomor": 23,
+            "nama": "Al-Mu'minun",
+            "ayat": 118
+        },
+        {
+            "nomor": 24,
+            "nama": "An-Nur",
+            "ayat": 64
+        },
+        {
+            "nomor": 25,
+            "nama": "Al-Furqan",
+            "ayat": 77
+        },
+        {
+            "nomor": 26,
+            "nama": "Asy-Syu'ara'",
+            "ayat": 227
+        },
+        {
+            "nomor": 27,
+            "nama": "An-Naml",
+            "ayat": 93
+        },
+        {
+            "nomor": 28,
+            "nama": "Al-Qasas",
+            "ayat": 88
+        },
+        {
+            "nomor": 29,
+            "nama": "Al-'Ankabut",
+            "ayat": 69
+        },
+        {
+            "nomor": 30,
+            "nama": "Ar-Rum",
+            "ayat": 60
+        },
+        {
+            "nomor": 31,
+            "nama": "Luqman",
+            "ayat": 34
+        },
+        {
+            "nomor": 32,
+            "nama": "As-Sajdah",
+            "ayat": 30
+        },
+        {
+            "nomor": 33,
+            "nama": "Al-Ahzab",
+            "ayat": 73
+        },
+        {
+            "nomor": 34,
+            "nama": "Saba'",
+            "ayat": 54
+        },
+        {
+            "nomor": 35,
+            "nama": "Fatir",
+            "ayat": 45
+        },
+        {
+            "nomor": 36,
+            "nama": "Ya-Sin",
+            "ayat": 83
+        },
+        {
+            "nomor": 37,
+            "nama": "As-Saffat",
+            "ayat": 182
+        },
+        {
+            "nomor": 38,
+            "nama": "Sad",
+            "ayat": 88
+        },
+        {
+            "nomor": 39,
+            "nama": "Az-Zumar",
+            "ayat": 75
+        },
+        {
+            "nomor": 40,
+            "nama": "Gafir",
+            "ayat": 85
+        },
+        {
+            "nomor": 41,
+            "nama": "Fussilat",
+            "ayat": 54
+        },
+        {
+            "nomor": 42,
+            "nama": "Asy-Syura",
+            "ayat": 53
+        },
+        {
+            "nomor": 43,
+            "nama": "Az-Zukhruf",
+            "ayat": 89
+        },
+        {
+            "nomor": 44,
+            "nama": "Ad-Dukhan",
+            "ayat": 59
+        },
+        {
+            "nomor": 45,
+            "nama": "Al-Jasiyah",
+            "ayat": 37
+        },
+        {
+            "nomor": 46,
+            "nama": "Al-Ahqaf",
+            "ayat": 35
+        },
+        {
+            "nomor": 47,
+            "nama": "Muhammad",
+            "ayat": 38
+        },
+        {
+            "nomor": 48,
+            "nama": "Al-Fath",
+            "ayat": 29
+        },
+        {
+            "nomor": 49,
+            "nama": "Al-Hujurat",
+            "ayat": 18
+        },
+        {
+            "nomor": 50,
+            "nama": "Qaf",
+            "ayat": 45
+        },
+        {
+            "nomor": 51,
+            "nama": "Az-Zariyat",
+            "ayat": 60
+        },
+        {
+            "nomor": 52,
+            "nama": "At-Tur",
+            "ayat": 49
+        },
+        {
+            "nomor": 53,
+            "nama": "An-Najm",
+            "ayat": 62
+        },
+        {
+            "nomor": 54,
+            "nama": "Al-Qamar",
+            "ayat": 55
+        },
+        {
+            "nomor": 55,
+            "nama": "Ar-Rahman",
+            "ayat": 78
+        },
+        {
+            "nomor": 56,
+            "nama": "Al-Waqi'ah",
+            "ayat": 96
+        },
+        {
+            "nomor": 57,
+            "nama": "Al-Hadid",
+            "ayat": 29
+        },
+        {
+            "nomor": 58,
+            "nama": "Al-Mujadilah",
+            "ayat": 22
+        },
+        {
+            "nomor": 59,
+            "nama": "Al-Hasyr",
+            "ayat": 24
+        },
+        {
+            "nomor": 60,
+            "nama": "Al-Mumtahanah",
+            "ayat": 13
+        },
+        {
+            "nomor": 61,
+            "nama": "As-Saff",
+            "ayat": 14
+        },
+        {
+            "nomor": 62,
+            "nama": "Al-Jumu'ah",
+            "ayat": 11
+        },
+        {
+            "nomor": 63,
+            "nama": "Al-Munafiqun",
+            "ayat": 11
+        },
+        {
+            "nomor": 64,
+            "nama": "At-Tagabun",
+            "ayat": 18
+        },
+        {
+            "nomor": 65,
+            "nama": "At-Talaq",
+            "ayat": 12
+        },
+        {
+            "nomor": 66,
+            "nama": "At-Tahrim",
+            "ayat": 12
+        },
+        {
+            "nomor": 67,
+            "nama": "Al-Mulk",
+            "ayat": 30
+        },
+        {
+            "nomor": 68,
+            "nama": "Al-Qalam",
+            "ayat": 52
+        },
+        {
+            "nomor": 69,
+            "nama": "Al-Haqqah",
+            "ayat": 52
+        },
+        {
+            "nomor": 70,
+            "nama": "Al-Ma'arij",
+            "ayat": 44
+        },
+        {
+            "nomor": 71,
+            "nama": "Nuh",
+            "ayat": 28
+        },
+        {
+            "nomor": 72,
+            "nama": "Al-Jinn",
+            "ayat": 28
+        },
+        {
+            "nomor": 73,
+            "nama": "Al-Muzzammil",
+            "ayat": 20
+        },
+        {
+            "nomor": 74,
+            "nama": "Al-Muddassir",
+            "ayat": 56
+        },
+        {
+            "nomor": 75,
+            "nama": "Al-Qiyamah",
+            "ayat": 40
+        },
+        {
+            "nomor": 76,
+            "nama": "Al-Insan",
+            "ayat": 31
+        },
+        {
+            "nomor": 77,
+            "nama": "Al-Mursalat",
+            "ayat": 50
+        },
+        {
+            "nomor": 78,
+            "nama": "An-Naba'",
+            "ayat": 40
+        },
+        {
+            "nomor": 79,
+            "nama": "An-Nazi'at",
+            "ayat": 46
+        },
+        {
+            "nomor": 80,
+            "nama": "'Abasa",
+            "ayat": 42
+        },
+        {
+            "nomor": 81,
+            "nama": "At-Takwir",
+            "ayat": 29
+        },
+        {
+            "nomor": 82,
+            "nama": "Al-Infitar",
+            "ayat": 19
+        },
+        {
+            "nomor": 83,
+            "nama": "Al-Mutaffifin",
+            "ayat": 36
+        },
+        {
+            "nomor": 84,
+            "nama": "Al-Insyiqaq",
+            "ayat": 25
+        },
+        {
+            "nomor": 85,
+            "nama": "Al-Buruj",
+            "ayat": 22
+        },
+        {
+            "nomor": 86,
+            "nama": "At-Tariq",
+            "ayat": 17
+        },
+        {
+            "nomor": 87,
+            "nama": "Al-A'la",
+            "ayat": 19
+        },
+        {
+            "nomor": 88,
+            "nama": "Al-Gasyiyah",
+            "ayat": 26
+        },
+        {
+            "nomor": 89,
+            "nama": "Al-Fajr",
+            "ayat": 30
+        },
+        {
+            "nomor": 90,
+            "nama": "Al-Balad",
+            "ayat": 20
+        },
+        {
+            "nomor": 91,
+            "nama": "Asy-Syams",
+            "ayat": 15
+        },
+        {
+            "nomor": 92,
+            "nama": "Al-Lail",
+            "ayat": 21
+        },
+        {
+            "nomor": 93,
+            "nama": "Ad-Duha",
+            "ayat": 11
+        },
+        {
+            "nomor": 94,
+            "nama": "Asy-Syarh",
+            "ayat": 8
+        },
+        {
+            "nomor": 95,
+            "nama": "At-Tin",
+            "ayat": 8
+        },
+        {
+            "nomor": 96,
+            "nama": "Al-'Alaq",
+            "ayat": 19
+        },
+        {
+            "nomor": 97,
+            "nama": "Al-Qadr",
+            "ayat": 5
+        },
+        {
+            "nomor": 98,
+            "nama": "Al-Bayyinah",
+            "ayat": 8
+        },
+        {
+            "nomor": 99,
+            "nama": "Az-Zalzalah",
+            "ayat": 8
+        },
+        {
+            "nomor": 100,
+            "nama": "Al-'Adiyat",
+            "ayat": 11
+        },
+        {
+            "nomor": 101,
+            "nama": "Al-Qari'ah",
+            "ayat": 11
+        },
+        {
+            "nomor": 102,
+            "nama": "At-Takasur",
+            "ayat": 8
+        },
+        {
+            "nomor": 103,
+            "nama": "Al-'Asr",
+            "ayat": 3
+        },
+        {
+            "nomor": 104,
+            "nama": "Al-Humazah",
+            "ayat": 9
+        },
+        {
+            "nomor": 105,
+            "nama": "Al-Fil",
+            "ayat": 5
+        },
+        {
+            "nomor": 106,
+            "nama": "Quraisy",
+            "ayat": 4
+        },
+        {
+            "nomor": 107,
+            "nama": "Al-Ma'un",
+            "ayat": 7
+        },
+        {
+            "nomor": 108,
+            "nama": "Al-Kausar",
+            "ayat": 3
+        },
+        {
+            "nomor": 109,
+            "nama": "Al-Kafirun",
+            "ayat": 6
+        },
+        {
+            "nomor": 110,
+            "nama": "An-Nasr",
+            "ayat": 3
+        },
+        {
+            "nomor": 111,
+            "nama": "Al-Lahab",
+            "ayat": 5
+        },
+        {
+            "nomor": 112,
+            "nama": "Al-Ikhlas",
+            "ayat": 4
+        },
+        {
+            "nomor": 113,
+            "nama": "Al-Falaq",
+            "ayat": 5
+        },
+        {
+            "nomor": 114,
+            "nama": "An-Nas",
+            "ayat": 6
+        }
+    ]
+}
