@@ -1,0 +1,20 @@
+{
+    "project_name": "JSAM Auto Murottal",
+    "releases": [
+        {
+            "version": "1.0.0-alpha.1",
+            "build_date": "2026-10-27",
+            "notes": "Rilis v1.0.0-alpha.1 untuk ESP32 dan ESP8266, Tested murottal sudah jalan, setting belum ada apliki android",
+            "firmwares": {
+                "ESP8266": {
+                    "url": "https://github.com/FansElectronics/JSAM_Auto_Murottal/releases/download/v1.0.0-alpha.1/JSAM_1.0.0-alpha.1_ESP8266.bin",
+                    "offset": "0x0000"
+                },
+                "ESP32": {
+                    "url": "https://github.com/FansElectronics/JSAM_Auto_Murottal/releases/download/v1.0.0-alpha.1/JSAM_1.0.0-alpha.1_ESP32_Factory.bin",
+                    "offset": "0x0000"
+                }
+            }
+        }
+    ]
+}
