@@ -39,12 +39,29 @@
             membagikan</strong> data identitas pribadi pengguna (seperti nama, email, nomor telepon, atau data
         finansial).</p>
 
-    <h2>2. Izin Perangkat (Permissions)</h2>
+    <h2>2. Izin Perangkat (Permissions) & Akses Lokasi</h2>
     <ul>
-        <li><strong>Akses Jaringan & WiFi:</strong> Digunakan semata-mata untuk berkomunikasi langsung dengan modul
-            kontroler perangkat keras di jaringan lokal.</li>
-        <li><strong>Penyimpanan / Media:</strong> Digunakan hanya untuk mengakses atau memutar file audio yang dipilih
-            oleh pengguna di penyimpanan lokal perangkat.</li>
+        <li>
+            <strong>Akses Lokasi (ACCESS_FINE_LOCATION / ACCESS_COARSE_LOCATION):</strong>
+            Aplikasi mengakses data lokasi perangkat pengguna dengan tujuan:
+            <ul>
+                <li>Mengambil koordinat (lintang dan bujur) saat ini untuk konfigurasi otomatis pengaturan lokasi
+                    pengguna pada perangkat.</li>
+                <li>Memenuhi persyaratan sistem operasi Android saat memindai jaringan WiFi lokal perangkat kontroler.
+                </li>
+            </ul>
+            <strong>Penting:</strong> Data lokasi ini hanya diproses secara lokal di perangkat Anda untuk mengisi
+            parameter pengaturan dan tidak pernah dikirim, disimpan, atau dibagikan ke server pihak ketiga/cloud
+            eksternal kami.
+        </li>
+        <li>
+            <strong>Akses Jaringan & WiFi:</strong> Digunakan untuk mengirimkan parameter konfigurasi langsung ke
+            perangkat keras kontroler melalui jaringan lokal.
+        </li>
+        <li>
+            <strong>Penyimpanan / Media:</strong> Digunakan untuk memilih dan memutar file audio murottal dari
+            penyimpanan lokal perangkat.
+        </li>
     </ul>
 
     <h2>3. Layanan Pihak Ketiga</h2>
@@ -57,7 +74,8 @@
 
     <h2>5. Kontak Kami</h2>
     <p>Jika Anda memiliki pertanyaan mengenai Kebijakan Privasi ini, silakan hubungi pengembang melalui email:
-        <strong>support@fanselectronics.com</strong></p>
+        <strong>support@fanselectronics.com</strong>
+    </p>
 </body>
 
 </html>
