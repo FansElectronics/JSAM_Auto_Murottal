@@ -117,6 +117,10 @@ Anda dapat melakukan kompilasi mandiri atau menggunakan tool browser flasher Web
 
 File desain skematik dan layout PCB lengkap dapat diunduh pada folder `/PCB` di repository ini.
 
+### Skematik ESP8266 Wemos D1 Mini 2 Relay
+![Skematik ESP8266 Wemos D1 Mini 2 Relay](https://github.com/FansElectronics/JSAM_Auto_Murottal/blob/main/PCB/JSAM%20Wemos%20Mini%202%20Relay/Schematic.png)
+
+
 ---
 
 ## Terima Kasih Kepada 🤲
