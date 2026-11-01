@@ -107,8 +107,8 @@ Anda dapat melakukan kompilasi mandiri atau menggunakan tool browser flasher Web
 
 |Definisi | Pin ESP32 | Pin ESP8266 | Keterangan |
 | :--- | :--- | :--- | :--- |
-| **MP3_RX** | GPIO 33 | D5 | Pin Receiver untuk modul MP3 |
-| **MP3_TX** | GPIO 25 | D6 | Pin Transmitter untuk modul MP3 |
+| **MP3_RX** | GPIO 33 | D5 | Terhubung ke pin TX MP3 Modul |
+| **MP3_TX** | GPIO 25 | D6 | Terhubung ke pin RX MP3 Modul & Resistor 1K |
 | **MP3_BUSY** | GPIO 26 | D7 | Pin indikator status sibuk modul MP3 |
 | **RELAY** | GPIO 27 | D8 | Pin kontrol Relay |
 | **BUZZER** | GPIO 15 | D4 | Pin kontrol Buzzer |
