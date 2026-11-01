@@ -105,12 +105,15 @@ Anda dapat melakukan kompilasi mandiri atau menggunakan tool browser flasher Web
 
 ## Diagram Wiring & Skematik Hardware 💾
 
-Pin default yang direkomendasikan untuk menghindari kendala boot strapping ESP8266
-- **DFPlayer Mini TX/RX**: D6 (GPIO12 - TX ESP ke RX MP3) & D5 (GPIO14 - RX ESP ke TX MP3) *(Gunakan resistor 1kΩ pada RX DFPlayer)*
-- **DFPlayer BUSY**: D7 (GPIO13) *(Wajib gunakan INPUT_PULLUP, hindari PIN D8)*
-- **Relay Amplifier**: D1 / D2 (GPIO5 / GPIO4)
-- **I2C RTC DS3231 & LCD**: D2 (SDA / GPIO4) & D1 (SCL / GPIO5)
-- **Tombol Reset/Aksi**: D3 (GPIO0 / Flash Button)
+|Definisi | Pin ESP32 | Pin ESP8266 | Keterangan |
+| :--- | :--- | :--- | :--- |
+| **MP3_RX** | GPIO 33 | D5 | Pin Receiver untuk modul MP3 |
+| **MP3_TX** | GPIO 25 | D6 | Pin Transmitter untuk modul MP3 |
+| **MP3_BUSY** | GPIO 26 | D7 | Pin indikator status sibuk modul MP3 |
+| **RELAY** | GPIO 27 | D8 | Pin kontrol Relay |
+| **BUZZER** | GPIO 15 | D4 | Pin kontrol Buzzer |
+| **BUTTON** | GPIO 13 | D3 | Pin input Tombol / Button |
+| **LED** | GPIO 2 | D0 | Pin kontrol LED |
 
 File desain skematik dan layout PCB lengkap dapat diunduh pada folder `/PCB` di repository ini.
 
