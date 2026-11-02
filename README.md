@@ -3,7 +3,7 @@
 Firmware pemutar audio otomatis **Jadwal Sholat Auto Murottal (JSAM)** berbasis mikrokontroler ESP8266 dan ESP32 dengan modul audio DFPlayer Mini. Project ini dirancang untuk memutar lantunan Al-Qur'an (Murottal), Tarhim, serta adzan otomatis menjelang dan saat masuk waktu sholat. Perangkat ini dapat beroperasi secara mandiri (**Stand-alone / Auto Mode**) maupun terhubung sebagai penerima wireless (**Slave Mode via ESP-NOW**) yang disinkronkan langsung dengan display [Jadwal Sholat Dot Matrix (JSDM)](https://github.com/FansElectronics/JSDM_WiFi).
 
 Pengaturan jadwal, pemilihan surat/qori, volume, jeda relay amplifier, serta pengujian audio dapat dikonfigurasi langsung melalui aplikasi Android:
-👉 **Download Aplikasi Android**: https://play.google.com/store/apps/details?id=com.fanselectronics.jsam
+👉 **Download Aplikasi Android**: [Doownload Disini dulu, Google Play belum acc](https://github.com/FansElectronics/JSAM_Auto_Murottal/releases/download/v1.0.0-beta.1/JSAM_Auto_Murottal_v1.0.0.apk)
 
 ---
 
@@ -114,6 +114,8 @@ Anda dapat melakukan kompilasi mandiri atau menggunakan tool browser flasher Web
 | **BUZZER** | GPIO 15 | D4 | Pin kontrol Buzzer |
 | **BUTTON** | GPIO 13 | D3 | Pin input Tombol / Button |
 | **LED** | GPIO 2 | D0 | Pin kontrol LED |
+| **I2C SDA** | GPIO 21 | D2 | Pin kontrol LED |
+| **I2C SCL** | GPIO 22 | D1 | Pin kontrol LED |
 
 File desain skematik dan layout PCB lengkap dapat diunduh pada folder `/PCB` di repository ini.
 
